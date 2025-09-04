@@ -1,0 +1,119 @@
+/* Container base styles */
+.container {
+  min-height: 100vh;
+  padding: 36.9px;
+  margin-left: 36.9px;
+  margin-right: 36.9px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  background: linear-gradient(to right, #ffccf9, #ffffb3);
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  transition: background-color 0.3s, color 0.3s;
+  font-size: x-large;
+}
+
+/* Dark mode styles */
+body.dark .container {
+  background: #121212;
+  color: #f0f0f0;
+}
+
+body.dark .quiz-box {
+  background-color: #1e1e1e;
+  color: #fff;
+  border-color: #444;
+}
+
+body.dark input {
+  background-color: #333;
+  color: #fff;
+  border-color: #555;
+}
+
+body.dark select,
+body.dark button {
+  background-color: #2c2c2c;
+  color: #f0f0f0;
+  border-color: #444;
+}
+
+/* Headings */
+h1 {
+  font-size: 3rem;
+  color: #6a0dad;
+  margin-bottom: 24px;
+  text-align: center;
+  animation: pop-in 0.6s ease-in-out;
+}
+
+@keyframes pop-in {
+  0% { transform: scale(0.8); opacity: 0; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+/* Forms */
+.quiz-box {
+  background: #ffffff;
+  padding: 24px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  width: 100%;
+  max-width: 600px;
+  margin-bottom: 40px;
+  transition: background-color 0.3s;
+}
+
+input[type="text"],
+select {
+  width: 100%;
+  padding: 10px;
+  font-size: 1.1rem;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  margin-top: 4px;
+  margin-bottom: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+button {
+  padding: 10px 16px;
+  background-color: #6a0dad;
+  color: #fff;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 10px;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.15);
+  transition: background-color 0.2s;
+}
+
+button:hover {
+  background-color: #8338ec;
+}
+
+/* Back to top button */
+.back-to-top {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  width: 36px;
+  height: 36px;
+  background-color: #6a0dad;
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  transition: background-color 0.2s;
+}
+
+.back-to-top:hover {
+  background-color: #9d4edd;
+}
