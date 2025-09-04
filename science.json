@@ -1,0 +1,552 @@
+{
+  "subject": "Science",
+  "weeks": [
+    {
+      "week": 1,
+      "title": "Types of Matter in the World",
+      "questions": [
+        {
+          "id": "S1Q1",
+          "q": "What is matter?",
+          "choices": {
+            "a": "All of the above (anything that has mass and takes up space)",
+            "b": "Only liquids",
+            "c": "Only solids",
+            "d": "Only gases"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S1Q2",
+          "q": "Albert Einstein\u2019s equation E = mc\u00b2 means?",
+          "choices": {
+            "a": "All matter can be converted to energy",
+            "b": "Energy is unrelated to mass",
+            "c": "Only stars have energy",
+            "d": "Only heat counts as energy"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S1Q3",
+          "q": "How does water change to different states of matter?",
+          "choices": {
+            "a": "By temperature change",
+            "b": "By color change",
+            "c": "By smell",
+            "d": "By pressure alone in classrooms"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S1Q4",
+          "q": "What is the formula for mass\u2013energy equivalence?",
+          "choices": {
+            "a": "E = mc\u00b2",
+            "b": "F = ma",
+            "c": "V = IR",
+            "d": "PV = nRT"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S1Q5",
+          "q": "Gravity is?",
+          "choices": {
+            "a": "A natural phenomenon attracting objects with mass",
+            "b": "A type of electricity",
+            "c": "A magnetic trick",
+            "d": "A sound wave"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S1Q6",
+          "q": "What is an atom?",
+          "choices": {
+            "a": "All of the above (basic unit of matter)",
+            "b": "Only a proton",
+            "c": "Only a molecule",
+            "d": "Only a cell"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S1Q7",
+          "q": "Atoms are made up of?",
+          "choices": {
+            "a": "Protons, neutrons, and electrons",
+            "b": "Cells",
+            "c": "Photons and lava",
+            "d": "Only neutrons"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S1Q8",
+          "q": "The center of an atom is?",
+          "choices": {
+            "a": "The nucleus",
+            "b": "The mantle",
+            "c": "The cortex",
+            "d": "The shell"
+          },
+          "answer": "a"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "title": "Plant and Animal Anatomy Structures",
+      "questions": [
+        {
+          "id": "S2Q1",
+          "q": "General term for the study of internal structure of plants (other than Plant Anatomy)?",
+          "choices": {
+            "a": "Phytotomy",
+            "b": "Mycology",
+            "c": "Zoology",
+            "d": "Cytology"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S2Q2",
+          "q": "Part of a flower that supports the petals?",
+          "choices": {
+            "a": "Sepal",
+            "b": "Stamen",
+            "c": "Pistil",
+            "d": "Anther"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S2Q3",
+          "q": "Process by which plants produce oxygen and glucose?",
+          "choices": {
+            "a": "Photosynthesis",
+            "b": "Respiration",
+            "c": "Fermentation",
+            "d": "Transpiration"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S2Q4",
+          "q": "Outermost layer of a stem, root, or woody plant is called?",
+          "choices": {
+            "a": "Bark",
+            "b": "Phloem",
+            "c": "Xylem",
+            "d": "Cambium"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S2Q5",
+          "q": "Process that helps pollination by moving pollen is called?",
+          "choices": {
+            "a": "Pollination",
+            "b": "Germination",
+            "c": "Meiosis",
+            "d": "Osmosis"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S2Q6",
+          "q": "Insects that typically pollinate flowers?",
+          "choices": {
+            "a": "Bee",
+            "b": "Termite",
+            "c": "Mosquito",
+            "d": "Moth larva"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S2Q7",
+          "q": "Fish breathe with gills. True or false?",
+          "choices": {
+            "a": "True",
+            "b": "False",
+            "c": "Only in rivers",
+            "d": "Only at night"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S2Q8",
+          "q": "What kind of vertebrate is a frog?",
+          "choices": {
+            "a": "Amphibian",
+            "b": "Reptile",
+            "c": "Mammal",
+            "d": "Bird"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S2Q9",
+          "q": "An animal with a backbone is called?",
+          "choices": {
+            "a": "Vertebrate",
+            "b": "Invertebrate",
+            "c": "Exotherm",
+            "d": "Echinoderm"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S2Q10",
+          "q": "Insects, worms, clams, crab, and starfish are all?",
+          "choices": {
+            "a": "Invertebrate",
+            "b": "Vertebrate",
+            "c": "Chordates",
+            "d": "Mammals"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S2Q11",
+          "q": "A mammal is?",
+          "choices": {
+            "a": "A warm-blooded vertebrate that usually has hair and produces milk",
+            "b": "A cold-blooded fish",
+            "c": "A flowering plant",
+            "d": "A single-celled organism"
+          },
+          "answer": "a"
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "title": "Movement of Water",
+      "questions": [
+        {
+          "id": "S3Q1",
+          "q": "Thermohaline circulation is sometimes called?",
+          "choices": {
+            "a": "Ocean Conveyor Belt",
+            "b": "Jet Stream",
+            "c": "Trade Winds",
+            "d": "Gulf Loop"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S3Q2",
+          "q": "Thermohaline circulation is?",
+          "choices": {
+            "a": "The global movement of water in the oceans",
+            "b": "A local tide in bays",
+            "c": "A river flood cycle",
+            "d": "Only ice melt near poles"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S3Q3",
+          "q": "The movement of water on, above, and below Earth\u2019s surface is called?",
+          "choices": {
+            "a": "Water Cycle",
+            "b": "Rock Cycle",
+            "c": "Carbon Cycle",
+            "d": "Nitrogen Cycle"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S3Q4",
+          "q": "The Water Cycle involves?",
+          "choices": {
+            "a": "All of the above (evaporation, condensation, precipitation, runoff)",
+            "b": "Only evaporation",
+            "c": "Only freezing",
+            "d": "Only sublimation"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S3Q5",
+          "q": "Rise and fall of sea levels caused by gravity and Earth\u2019s rotation are called?",
+          "choices": {
+            "a": "Tides",
+            "b": "Currents",
+            "c": "Waves",
+            "d": "Gyres"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S3Q6",
+          "q": "A current is?",
+          "choices": {
+            "a": "A continuous, directed movement of ocean water",
+            "b": "A one-time splash",
+            "c": "Only a river term",
+            "d": "A weather cloud"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S3Q7",
+          "q": "Surface ocean currents are usually caused by?",
+          "choices": {
+            "a": "Wind",
+            "b": "Earthquakes",
+            "c": "Moonlight",
+            "d": "Volcanoes"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S3Q8",
+          "q": "The Gulf Stream, North Atlantic Drift, and West Wind Drift are?",
+          "choices": {
+            "a": "Major ocean currents",
+            "b": "River deltas",
+            "c": "Hurricanes",
+            "d": "Sand bars"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S3Q9",
+          "q": "River cutting through MN, WI, IA, IL, MO, KY, TN, AR, MS, and LA?",
+          "choices": {
+            "a": "Mississippi River",
+            "b": "Ohio River",
+            "c": "Colorado River",
+            "d": "Columbia River"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S3Q10",
+          "q": "Vaporization of liquid is called?",
+          "choices": {
+            "a": "Evaporation",
+            "b": "Condensation",
+            "c": "Precipitation",
+            "d": "Infiltration"
+          },
+          "answer": "a"
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "title": "Energy from the Sun and How it Heats the Earth",
+      "questions": [
+        {
+          "id": "S4Q1",
+          "q": "The Earth's primary source of energy is?",
+          "choices": {
+            "a": "The Sun",
+            "b": "The Moon",
+            "c": "Earth\u2019s core",
+            "d": "Lightning"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S4Q2",
+          "q": "What is the Sun made of?",
+          "choices": {
+            "a": "Plasma and is not solid",
+            "b": "Molten rock",
+            "c": "Liquid water",
+            "d": "Solid iron"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S4Q3",
+          "q": "The core of the Sun produces the most?",
+          "choices": {
+            "a": "Thermal energy",
+            "b": "Liquid water",
+            "c": "Wind",
+            "d": "Seismic waves"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S4Q4",
+          "q": "Sunspots that vary about every 11 years are called?",
+          "choices": {
+            "a": "The Solar Cycle",
+            "b": "Aurora Borealis",
+            "c": "Eclipses",
+            "d": "Tidal bulges"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S4Q5",
+          "q": "Radiant light and heat from the sun is called?",
+          "choices": {
+            "a": "Solar energy",
+            "b": "Lunar energy",
+            "c": "Geothermal",
+            "d": "Nuclear fission"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S4Q6",
+          "q": "Building design to collect and distribute solar energy is called?",
+          "choices": {
+            "a": "Passive solar",
+            "b": "Reactive solar",
+            "c": "Hydro passive",
+            "d": "Geo-insulated"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S4Q7",
+          "q": "The Sun is primarily composed of?",
+          "choices": {
+            "a": "Hydrogen and helium",
+            "b": "Oxygen and nitrogen",
+            "c": "Carbon dioxide and methane",
+            "d": "Iron and nickel"
+          },
+          "answer": "a"
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "title": "Solar System Planets that Orbit the Sun",
+      "questions": [
+        {
+          "id": "S5Q1",
+          "q": "Which planet is closest to the Sun?",
+          "choices": {
+            "a": "Mercury",
+            "b": "Venus",
+            "c": "Earth",
+            "d": "Mars"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S5Q2",
+          "q": "According to scientists, the Solar System formed?",
+          "choices": {
+            "a": "About 4.6 billion years ago",
+            "b": "6000 years ago",
+            "c": "100 million years ago",
+            "d": "13.8 billion years ago from a white dwarf"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S5Q3",
+          "q": "The majority of the Solar System\u2019s mass is?",
+          "choices": {
+            "a": "The Sun",
+            "b": "Jupiter",
+            "c": "The Asteroid Belt",
+            "d": "The Kuiper Belt"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S5Q4",
+          "q": "Earth\u2019s moon is a?",
+          "choices": {
+            "a": "Natural satellite",
+            "b": "Dwarf planet",
+            "c": "Comet",
+            "d": "Asteroid"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S5Q5",
+          "q": "When a planet goes around the Sun it is called an?",
+          "choices": {
+            "a": "Orbit",
+            "b": "Axis",
+            "c": "Rotation",
+            "d": "Ellipse only"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S5Q6",
+          "q": "Gravity is why the planets orbit the Sun. True or false?",
+          "choices": {
+            "a": "True",
+            "b": "False",
+            "c": "Only at night",
+            "d": "Only for gas giants"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S5Q7",
+          "q": "Earth, Mars, Venus, and Mercury are?",
+          "choices": {
+            "a": "Inner planets",
+            "b": "Gas giants",
+            "c": "Dwarf planets",
+            "d": "Trans-Neptunian objects"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S5Q8",
+          "q": "The smallest planet in the Solar System is?",
+          "choices": {
+            "a": "Mercury",
+            "b": "Mars",
+            "c": "Venus",
+            "d": "Pluto"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S5Q9",
+          "q": "The third planet from the Sun is?",
+          "choices": {
+            "a": "Earth",
+            "b": "Venus",
+            "c": "Mars",
+            "d": "Jupiter"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S5Q10",
+          "q": "The furthest recognized planet from the Sun is?",
+          "choices": {
+            "a": "Neptune (Pluto reclassified as a dwarf planet in 2006)",
+            "b": "Saturn",
+            "c": "Uranus",
+            "d": "Jupiter"
+          },
+          "answer": "a"
+        },
+        {
+          "id": "S5Q11",
+          "q": "What is the second largest planet (gas giant with rings)?",
+          "choices": {
+            "a": "Saturn",
+            "b": "Jupiter",
+            "c": "Neptune",
+            "d": "Uranus"
+          },
+          "answer": "a"
+        }
+      ]
+    }
+  ]
+}
